@@ -1,7 +1,7 @@
 
 -- PLSQL Assignment One - Sunrise Supermarket
 # Name: Kabanyana Sarah | Student ID: 20251SEN237
--- queries.sql : all 8 required queries (3 JOINs, 1 CTE, 4 window fn)
+-- queries.sql : all 8 required queries (3 JOINs, 1 CTE, 4 window fns)
 
 
 
